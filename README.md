@@ -1,1 +1,1 @@
-Classifying the mail category using Logistic Rression.
+Classifying the mail category using Logistic Regression.
